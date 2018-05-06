@@ -57,7 +57,7 @@ public class ApiController extends BaseController {
 	@Autowired
 	private IWindowService windowService;
 	
-	int i=3;
+	int i=4;
 	// ==============================
 
 	@ResponseBody
